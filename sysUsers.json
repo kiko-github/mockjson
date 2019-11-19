@@ -1,0 +1,87 @@
+{
+    "page": 1,
+    "per_page": 20,
+    "total_pages": 1,
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Ганбаатар",
+            "lastName": "Төгсбаясгалан",
+            "email": "tugsuganbaatar@gmail.com",
+            "phoneNumber": "90955972",
+            "userName": "tugsu",
+            "registerNumber": "МЮ97041543",
+            "group": {
+                "id": "sysadmin",
+                "groupName": "Системийн Админ"
+            },
+            "lastLoggedAt": "2019-11-19 18:10:57",
+            "lastLoginIp": "103.50.206.73",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "firstName": "Бат",
+            "lastName": "Дорж",
+            "email": "bat@gmail.com",
+            "phoneNumber": "99110001",
+            "userName": "bat",
+            "registerNumber": "МО19990202",
+            "group": {
+                "id": "sales",
+                "groupName": "Борлуулалтын Инженер"
+            },
+            "lastLoggedAt": "2019-11-10 09:10:17",
+            "lastLoginIp": "203.50.216.73",
+            "isActive": false
+        },
+        {
+            "id": 3,
+            "firstName": "Баялагмаа",
+            "lastName": "Баярмаа",
+            "email": "bayalagmaabayarmaa@gmail.com",
+            "phoneNumber": "88880000",
+            "userName": "bayalagmaasofia",
+            "registerNumber": "РУ02030202",
+            "group": {
+                "id": "director",
+                "groupName": "Захирал"
+            },
+            "lastLoggedAt": "2019-11-02 12:10:17",
+            "lastLoginIp": "223.50.216.73",
+            "isActive": false
+        },
+        {
+            "id": 4,
+            "firstName": "Ану",
+            "lastName": "Отгонжаргал",
+            "email": "anu@gmail.com",
+            "phoneNumber": "99990090",
+            "userName": "anu",
+            "registerNumber": "ТИ02030122",
+            "group": {
+                "id": "sysadmin",
+                "groupName": "Системийн Админ"
+            },
+            "lastLoggedAt": "2019-11-02 12:10:17",
+            "lastLoginIp": "223.50.216.73",
+            "isActive": false
+        },
+            {
+            "id": 5,
+            "firstName": "НамбаржинЛамбохүү",
+            "lastName": "Түмэнбаяр",
+            "email": "nambarjintumenbayar@gmail.com",
+            "phoneNumber": "88090909",
+            "userName": "nambarjinlamponchik",
+            "registerNumber": "РИ90070322",
+            "group": {
+                "id": "engineer",
+                "groupName": "Инженер"
+            },
+            "lastLoggedAt": "2019-09-02 11:10:17",
+            "lastLoginIp": "203.51.216.73",
+            "isActive": true
+        }
+    ]
+}

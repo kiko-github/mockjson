@@ -17,7 +17,8 @@
             },
             "lastLoggedAt": "2019-11-19 18:10:57",
             "lastLoginIp": "103.50.206.73",
-            "isActive": true
+            "isActive": true,
+            "password": "p4ss1234"
         },
         {
             "id": 2,
@@ -33,7 +34,8 @@
             },
             "lastLoggedAt": "2019-11-10 09:10:17",
             "lastLoginIp": "203.50.216.73",
-            "isActive": false
+            "isActive": false,
+            "password": "p4ss123"
         },
         {
             "id": 3,
@@ -49,7 +51,8 @@
             },
             "lastLoggedAt": "2019-11-02 12:10:17",
             "lastLoginIp": "223.50.216.73",
-            "isActive": false
+            "isActive": false,
+            "password": "p4ss12"
         },
         {
             "id": 4,
@@ -65,7 +68,8 @@
             },
             "lastLoggedAt": "2019-11-02 12:10:17",
             "lastLoginIp": "223.50.216.73",
-            "isActive": false
+            "isActive": false,
+            "password": "p4ss1"
         },
             {
             "id": 5,
@@ -81,7 +85,8 @@
             },
             "lastLoggedAt": "2019-09-02 11:10:17",
             "lastLoginIp": "203.51.216.73",
-            "isActive": true
+            "isActive": true,
+            "password": "p4ss"
         }
     ]
 }

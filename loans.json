@@ -1,0 +1,75 @@
+[
+  {
+    "category": "loan",
+    "name": "Зээлийн үйлчилгээ",
+    "id": "1",
+    "item": [
+      {
+        "name": "Бизнесийн зээл",
+        "img": "../../assets/images/card1.jpg",
+        "id": "1"
+      },
+      {
+        "name": "Бизнесийн зээл",
+        "img": "../../assets/images/card1.jpg",
+        "id": "3"
+      },
+      {
+        "name": "Бизнесийн зээл",
+        "img": "../../assets/images/card1.jpg",
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "category": "exchange",
+    "name": "Валют арилжаа",
+    "id": "2",
+    "item": [
+      {
+        "name": "Валют зээл",
+        "img": "../../assets/images/card1.jpg",
+        "id": "1"
+      },
+      {
+        "name": "Валют",
+        "img": "../../assets/images/card1.jpg",
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "category": "settlement",
+    "name": "Гадаад төлбөр тооцоо",
+    "id": "3",
+    "item": [
+      {
+        "name": "Гадаад",
+        "img": "../../assets/images/card1.jpg",
+        "id": "1"
+      },
+      {
+        "name": "Төлбөр тооцоо",
+        "img": "../../assets/images/card1.jpg",
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "category": "other",
+    "name": "Бусад үйлчилгээ",
+    "id": "4",
+    "item": [
+      {
+        "name": "Бусад",
+        "img": "../../assets/images/card1.jpg",
+        "id": "1"
+      },
+      {
+        "name": "Үйлчилгээ",
+        "img": "../../assets/images/card1.jpg",
+        "id": "2"
+      }
+    ]
+  }
+]
